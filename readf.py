@@ -74,15 +74,6 @@ class ParsePA:
         return None
 
 
-    # def parse(self, filename):
-    #     records = self.readf(filename)
-    #     self.Header = records.pop(0)
-    #     records = [r for r in records or [] if r != self.Header]
-    #     for record in records or []:
-    #         if record[0].startswith()
-    # # for r in records or []:
-    #     print(r)
-
 
 def readf(filename):
     with open(filename) as csvfile:
@@ -100,7 +91,7 @@ def readf(filename):
 #   ['All Precincts', '', '', '', '', '']
 
 def write(fname, records):
-    header = ['county', 'precinct', 'office', 'district',
+    header = ['county', 'precinct', 'office', 'district', 'party',
               'candidate', 'votes', 'election_day', 'mi', 'pr']
     with open(fname, "w", newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',',
@@ -111,21 +102,15 @@ def write(fname, records):
 
 def parse(records):
     stateraces = ['Congress 12', 'PA Rep 86', 'PA Senator 15']
-    tot = next((c for c, v in enumerate(records) if v[0] == 'All Precincts'), 0)
-    # print(tot, type(tot), records[tot])
-    precinct_per = records[:tot]
-    precinct_sum = records[tot:]
-    print(precinct_sum[0])
-    if not precinct_per:
-        print('no')
-        return None
 
     newrecords = []
     curprecinct = None
     currace = None
     district = None
+    party = None
+
     # walk the file
-    for r in  precinct_per or []:
+    for r in  records or []:
         if r[0].startswith('Precinct'):
             curprecinct = r[0].replace('Precinct ', '')
             currace = None
@@ -138,31 +123,30 @@ def parse(records):
             else:
                 district = ''
         elif r[0].startswith('Total'):
-            print(curprecinct, currace, district, r)
+            # print(curprecinct, currace, district, r)
+            continue
         else:
             r.pop(2)
             if 'WRITE-IN' in r[0]:
                 r[0] = "Write-Ins"
-            newr = ['Perry', curprecinct, currace, district] + r
-            print(newr)
+            newr = ['Perry', curprecinct, currace, district, party] + r
             newrecords.append(newr)
 
-    write('new-perry.csv', newrecords)
-    # for r in newrecords or []:
-    #     print(len(r))
+    write('20201103__pa__general__perry__precinct.csv', newrecords)
 
-    return None
 
 def main():
     records = readf("PerryPA.csv")
     header = records.pop(0)
     # print("***",header)
     records = [r for r in records or [] if r != header]
-    # for r in records or []:
-    #     if r[1:] == ['', '', '', '', '']:
-    #         print(r)
-    #     print(r)
-    parse(records)
+
+    tot = next((c for c, v in enumerate(records) if v[0] == 'All Precincts'), 0)
+    precinct_per = records[:tot]
+    if not precinct_per:
+        print ("error in file")
+    else:
+        parse(precinct_per)
 
 
 if __name__ == "__main__":
