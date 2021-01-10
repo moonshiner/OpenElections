@@ -100,8 +100,8 @@ def readf(filename):
 #   ['All Precincts', '', '', '', '', '']
 
 def write(fname, records):
-    header = ['county', 'precinct', 'office', 'candidate', 'votes',
-              'election_day', 'mi', 'pr']
+    header = ['county', 'precinct', 'office', 'district',
+              'candidate', 'votes', 'election_day', 'mi', 'pr']
     with open(fname, "w", newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',',
                                lineterminator='\n', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -123,7 +123,7 @@ def parse(records):
     newrecords = []
     curprecinct = None
     currace = None
-    district = ''
+    district = None
     # walk the file
     for r in  precinct_per or []:
         if r[0].startswith('Precinct'):
@@ -135,15 +135,17 @@ def parse(records):
                 lf = currace.split(' ')
                 district = lf.pop(-1)
                 currace = ' '.join(lf)
-                print("%s, %s" % (currace, district))
-                # district = currace.split(' ')[-1]
             else:
                 district = ''
+        elif r[0].startswith('Total'):
+            print(curprecinct, currace, district, r)
         else:
-
             r.pop(2)
-            newr = ['Perry', curprecinct, currace, district]
-            newrecords.append(newr + r)
+            if 'WRITE-IN' in r[0]:
+                r[0] = "Write-Ins"
+            newr = ['Perry', curprecinct, currace, district] + r
+            print(newr)
+            newrecords.append(newr)
 
     write('new-perry.csv', newrecords)
     # for r in newrecords or []:
