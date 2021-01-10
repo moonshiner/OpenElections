@@ -1,4 +1,4 @@
-county,precinct,office,candidate,votes,election_day,mi,pr
+county,precinct,district,office,candidate,votes,election_day,mi,pr
 Perry,BLAIN BOROUGH,President,,BIDEN/HARRIS,23,21,2,0
 Perry,BLAIN BOROUGH,President,,TRUMP/PENCE,97,96,0,1
 Perry,BLAIN BOROUGH,President,,JORGENSEN/COHEN,2,2,0,0
