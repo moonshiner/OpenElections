@@ -1,0 +1,841 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,Braintrim Township,President,,DEM,BIDEN/HARRIS,51
+Wyoming,Braintrim Township,President,,REP,TRUMP/PENCE,179
+Wyoming,Braintrim Township,President,,LIB,JORGENSEN/COHEN,0
+Wyoming,Braintrim Township,President,,Write-Ins,WI,0
+Wyoming,Braintrim Township,President,,Scattered,SC,1
+Wyoming,Clinton Township,President,,DEM,BIDEN/HARRIS,315
+Wyoming,Clinton Township,President,,REP,TRUMP/PENCE,472
+Wyoming,Clinton Township,President,,LIB,JORGENSEN/COHEN,13
+Wyoming,Clinton Township,President,,Write-Ins,WI,0
+Wyoming,Clinton Township,President,,Scattered,SC,3
+Wyoming,Eaton Township,President,,DEM,BIDEN/HARRIS,301
+Wyoming,Eaton Township,President,,REP,TRUMP/PENCE,572
+Wyoming,Eaton Township,President,,LIB,JORGENSEN/COHEN,17
+Wyoming,Eaton Township,President,,Write-Ins,WI,0
+Wyoming,Eaton Township,President,,Scattered,SC,2
+Wyoming,Exeter Township,President,,DEM,BIDEN/HARRIS,135
+Wyoming,Exeter Township,President,,REP,TRUMP/PENCE,274
+Wyoming,Exeter Township,President,,LIB,JORGENSEN/COHEN,6
+Wyoming,Exeter Township,President,,Write-Ins,WI,0
+Wyoming,Exeter Township,President,,Scattered,SC,1
+Wyoming,Factoryville Boro Wards 1,President,,DEM,BIDEN/HARRIS,126
+Wyoming,Factoryville Boro Wards 1,President,,REP,TRUMP/PENCE,121
+Wyoming,Factoryville Boro Wards 1,President,,LIB,JORGENSEN/COHEN,7
+Wyoming,Factoryville Boro Wards 1,President,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,President,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 2,President,,DEM,BIDEN/HARRIS,99
+Wyoming,Factoryville Boro Wards 2,President,,REP,TRUMP/PENCE,119
+Wyoming,Factoryville Boro Wards 2,President,,LIB,JORGENSEN/COHEN,2
+Wyoming,Factoryville Boro Wards 2,President,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,President,,Scattered,SC,0
+Wyoming,Falls Township,President,,DEM,BIDEN/HARRIS,364
+Wyoming,Falls Township,President,,REP,TRUMP/PENCE,692
+Wyoming,Falls Township,President,,LIB,JORGENSEN/COHEN,10
+Wyoming,Falls Township,President,,Write-Ins,WI,0
+Wyoming,Falls Township,President,,Scattered,SC,1
+Wyoming,Forkston Township,President,,DEM,BIDEN/HARRIS,42
+Wyoming,Forkston Township,President,,REP,TRUMP/PENCE,142
+Wyoming,Forkston Township,President,,LIB,JORGENSEN/COHEN,3
+Wyoming,Forkston Township,President,,Write-Ins,WI,0
+Wyoming,Forkston Township,President,,Scattered,SC,2
+Wyoming,Laceyville Borough,President,,DEM,BIDEN/HARRIS,40
+Wyoming,Laceyville Borough,President,,REP,TRUMP/PENCE,128
+Wyoming,Laceyville Borough,President,,LIB,JORGENSEN/COHEN,3
+Wyoming,Laceyville Borough,President,,Write-Ins,WI,0
+Wyoming,Laceyville Borough,President,,Scattered,SC,0
+Wyoming,Lemon Township,President,,DEM,BIDEN/HARRIS,203
+Wyoming,Lemon Township,President,,REP,TRUMP/PENCE,476
+Wyoming,Lemon Township,President,,LIB,JORGENSEN/COHEN,6
+Wyoming,Lemon Township,President,,Write-Ins,WI,0
+Wyoming,Lemon Township,President,,Scattered,SC,2
+Wyoming,Mehoopany Township,President,,DEM,BIDEN/HARRIS,103
+Wyoming,Mehoopany Township,President,,REP,TRUMP/PENCE,351
+Wyoming,Mehoopany Township,President,,LIB,JORGENSEN/COHEN,5
+Wyoming,Mehoopany Township,President,,Write-Ins,WI,0
+Wyoming,Mehoopany Township,President,,Scattered,SC,1
+Wyoming,Meshoppen Borough,President,,DEM,BIDEN/HARRIS,30
+Wyoming,Meshoppen Borough,President,,REP,TRUMP/PENCE,106
+Wyoming,Meshoppen Borough,President,,LIB,JORGENSEN/COHEN,4
+Wyoming,Meshoppen Borough,President,,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,President,,Scattered,SC,0
+Wyoming,Meshoppen Township,President,,DEM,BIDEN/HARRIS,97
+Wyoming,Meshoppen Township,President,,REP,TRUMP/PENCE,349
+Wyoming,Meshoppen Township,President,,LIB,JORGENSEN/COHEN,5
+Wyoming,Meshoppen Township,President,,Write-Ins,WI,0
+Wyoming,Meshoppen Township,President,,Scattered,SC,0
+Wyoming,Monroe Township,President,,DEM,BIDEN/HARRIS,233
+Wyoming,Monroe Township,President,,REP,TRUMP/PENCE,693
+Wyoming,Monroe Township,President,,LIB,JORGENSEN/COHEN,13
+Wyoming,Monroe Township,President,,Write-Ins,WI,0
+Wyoming,Monroe Township,President,,Scattered,SC,4
+Wyoming,Nicholson Boro,President,,DEM,BIDEN/HARRIS,132
+Wyoming,Nicholson Boro,President,,REP,TRUMP/PENCE,230
+Wyoming,Nicholson Boro,President,,LIB,JORGENSEN/COHEN,10
+Wyoming,Nicholson Boro,President,,Write-Ins,WI,0
+Wyoming,Nicholson Boro,President,,Scattered,SC,1
+Wyoming,Nicholson Township,President,,DEM,BIDEN/HARRIS,223
+Wyoming,Nicholson Township,President,,REP,TRUMP/PENCE,508
+Wyoming,Nicholson Township,President,,LIB,JORGENSEN/COHEN,6
+Wyoming,Nicholson Township,President,,Write-Ins,WI,0
+Wyoming,Nicholson Township,President,,Scattered,SC,2
+Wyoming,North Branch Township,President,,DEM,BIDEN/HARRIS,33
+Wyoming,North Branch Township,President,,REP,TRUMP/PENCE,118
+Wyoming,North Branch Township,President,,LIB,JORGENSEN/COHEN,1
+Wyoming,North Branch Township,President,,Write-Ins,WI,0
+Wyoming,North Branch Township,President,,Scattered,SC,1
+Wyoming,Northmoreland Township,President,,DEM,BIDEN/HARRIS,272
+Wyoming,Northmoreland Township,President,,REP,TRUMP/PENCE,600
+Wyoming,Northmoreland Township,President,,LIB,JORGENSEN/COHEN,9
+Wyoming,Northmoreland Township,President,,Write-Ins,WI,0
+Wyoming,Northmoreland Township,President,,Scattered,SC,2
+Wyoming,Noxen Township,President,,DEM,BIDEN/HARRIS,103
+Wyoming,Noxen Township,President,,REP,TRUMP/PENCE,359
+Wyoming,Noxen Township,President,,LIB,JORGENSEN/COHEN,9
+Wyoming,Noxen Township,President,,Write-Ins,WI,0
+Wyoming,Noxen Township,President,,Scattered,SC,1
+Wyoming,Overfield Township,President,,DEM,BIDEN/HARRIS,374
+Wyoming,Overfield Township,President,,REP,TRUMP/PENCE,553
+Wyoming,Overfield Township,President,,LIB,JORGENSEN/COHEN,19
+Wyoming,Overfield Township,President,,Write-Ins,WI,0
+Wyoming,Overfield Township,President,,Scattered,SC,3
+Wyoming,Tunkhannock Boro Wards 1,President,,DEM,BIDEN/HARRIS,51
+Wyoming,Tunkhannock Boro Wards 1,President,,REP,TRUMP/PENCE,109
+Wyoming,Tunkhannock Boro Wards 1,President,,LIB,JORGENSEN/COHEN,3
+Wyoming,Tunkhannock Boro Wards 1,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,President,,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 2,President,,DEM,BIDEN/HARRIS,144
+Wyoming,Tunkhannock Boro Wards 2,President,,REP,TRUMP/PENCE,181
+Wyoming,Tunkhannock Boro Wards 2,President,,LIB,JORGENSEN/COHEN,5
+Wyoming,Tunkhannock Boro Wards 2,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,President,,Scattered,SC,4
+Wyoming,Tunkhannock Boro Wards 3,President,,DEM,BIDEN/HARRIS,73
+Wyoming,Tunkhannock Boro Wards 3,President,,REP,TRUMP/PENCE,126
+Wyoming,Tunkhannock Boro Wards 3,President,,LIB,JORGENSEN/COHEN,6
+Wyoming,Tunkhannock Boro Wards 3,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,President,,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 4,President,,DEM,BIDEN/HARRIS,95
+Wyoming,Tunkhannock Boro Wards 4,President,,REP,TRUMP/PENCE,139
+Wyoming,Tunkhannock Boro Wards 4,President,,LIB,JORGENSEN/COHEN,7
+Wyoming,Tunkhannock Boro Wards 4,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,President,,Scattered,SC,1
+Wyoming,Tunkhannock Twp #1,President,,DEM,BIDEN/HARRIS,545
+Wyoming,Tunkhannock Twp #1,President,,REP,TRUMP/PENCE,983
+Wyoming,Tunkhannock Twp #1,President,,LIB,JORGENSEN/COHEN,27
+Wyoming,Tunkhannock Twp #1,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,President,,Scattered,SC,6
+Wyoming,Tunkhannock Twp #2,President,,DEM,BIDEN/HARRIS,243
+Wyoming,Tunkhannock Twp #2,President,,REP,TRUMP/PENCE,478
+Wyoming,Tunkhannock Twp #2,President,,LIB,JORGENSEN/COHEN,5
+Wyoming,Tunkhannock Twp #2,President,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,President,,Scattered,SC,0
+Wyoming,Washington Township,President,,DEM,BIDEN/HARRIS,193
+Wyoming,Washington Township,President,,REP,TRUMP/PENCE,542
+Wyoming,Washington Township,President,,LIB,JORGENSEN/COHEN,12
+Wyoming,Washington Township,President,,Write-Ins,WI,0
+Wyoming,Washington Township,President,,Scattered,SC,1
+Wyoming,Windham Township,President,,DEM,BIDEN/HARRIS,84
+Wyoming,Windham Township,President,,REP,TRUMP/PENCE,336
+Wyoming,Windham Township,President,,LIB,JORGENSEN/COHEN,5
+Wyoming,Windham Township,President,,Write-Ins,WI,0
+Wyoming,Windham Township,President,,Scattered,SC,1
+Wyoming,Braintrim Township,Attorney General,,DEM,JOSH SHAPIRO,53
+Wyoming,Braintrim Township,Attorney General,,REP,HEATHER HEIDELBAUGH,176
+Wyoming,Braintrim Township,Attorney General,,,DANIEL WASSNER,2
+Wyoming,Braintrim Township,Attorney General,,GRN,RICHARD L WEISS,0
+Wyoming,Braintrim Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Braintrim Township,Attorney General,,Scattered,SC,0
+Wyoming,Clinton Township,Attorney General,,DEM,JOSH SHAPIRO,324
+Wyoming,Clinton Township,Attorney General,,REP,HEATHER HEIDELBAUGH,442
+Wyoming,Clinton Township,Attorney General,,,DANIEL WASSNER,12
+Wyoming,Clinton Township,Attorney General,,GRN,RICHARD L WEISS,15
+Wyoming,Clinton Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Clinton Township,Attorney General,,Scattered,SC,0
+Wyoming,Eaton Township,Attorney General,,DEM,JOSH SHAPIRO,308
+Wyoming,Eaton Township,Attorney General,,REP,HEATHER HEIDELBAUGH,545
+Wyoming,Eaton Township,Attorney General,,,DANIEL WASSNER,22
+Wyoming,Eaton Township,Attorney General,,GRN,RICHARD L WEISS,14
+Wyoming,Eaton Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Eaton Township,Attorney General,,Scattered,SC,0
+Wyoming,Exeter Township,Attorney General,,DEM,JOSH SHAPIRO,148
+Wyoming,Exeter Township,Attorney General,,REP,HEATHER HEIDELBAUGH,247
+Wyoming,Exeter Township,Attorney General,,,DANIEL WASSNER,8
+Wyoming,Exeter Township,Attorney General,,GRN,RICHARD L WEISS,4
+Wyoming,Exeter Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Exeter Township,Attorney General,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 1,Attorney General,,DEM,JOSH SHAPIRO,123
+Wyoming,Factoryville Boro Wards 1,Attorney General,,REP,HEATHER HEIDELBAUGH,116
+Wyoming,Factoryville Boro Wards 1,Attorney General,,,DANIEL WASSNER,6
+Wyoming,Factoryville Boro Wards 1,Attorney General,,GRN,RICHARD L WEISS,6
+Wyoming,Factoryville Boro Wards 1,Attorney General,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,Attorney General,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 2,Attorney General,,DEM,JOSH SHAPIRO,109
+Wyoming,Factoryville Boro Wards 2,Attorney General,,REP,HEATHER HEIDELBAUGH,103
+Wyoming,Factoryville Boro Wards 2,Attorney General,,,DANIEL WASSNER,5
+Wyoming,Factoryville Boro Wards 2,Attorney General,,GRN,RICHARD L WEISS,1
+Wyoming,Factoryville Boro Wards 2,Attorney General,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,Attorney General,,Scattered,SC,0
+Wyoming,Falls Township,Attorney General,,DEM,JOSH SHAPIRO,387
+Wyoming,Falls Township,Attorney General,,REP,HEATHER HEIDELBAUGH,631
+Wyoming,Falls Township,Attorney General,,,DANIEL WASSNER,14
+Wyoming,Falls Township,Attorney General,,GRN,RICHARD L WEISS,15
+Wyoming,Falls Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Falls Township,Attorney General,,Scattered,SC,0
+Wyoming,Forkston Township,Attorney General,,DEM,JOSH SHAPIRO,51
+Wyoming,Forkston Township,Attorney General,,REP,HEATHER HEIDELBAUGH,129
+Wyoming,Forkston Township,Attorney General,,,DANIEL WASSNER,2
+Wyoming,Forkston Township,Attorney General,,GRN,RICHARD L WEISS,3
+Wyoming,Forkston Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Forkston Township,Attorney General,,Scattered,SC,2
+Wyoming,Laceyville Borough,Attorney General,,DEM,JOSH SHAPIRO,36
+Wyoming,Laceyville Borough,Attorney General,,REP,HEATHER HEIDELBAUGH,126
+Wyoming,Laceyville Borough,Attorney General,,,DANIEL WASSNER,0
+Wyoming,Laceyville Borough,Attorney General,,GRN,RICHARD L WEISS,5
+Wyoming,Laceyville Borough,Attorney General,,Write-Ins,WI,0
+Wyoming,Laceyville Borough,Attorney General,,Scattered,SC,0
+Wyoming,Lemon Township,Attorney General,,DEM,JOSH SHAPIRO,228
+Wyoming,Lemon Township,Attorney General,,REP,HEATHER HEIDELBAUGH,436
+Wyoming,Lemon Township,Attorney General,,,DANIEL WASSNER,9
+Wyoming,Lemon Township,Attorney General,,GRN,RICHARD L WEISS,6
+Wyoming,Lemon Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Lemon Township,Attorney General,,Scattered,SC,1
+Wyoming,Mehoopany Township,Attorney General,,DEM,JOSH SHAPIRO,110
+Wyoming,Mehoopany Township,Attorney General,,REP,HEATHER HEIDELBAUGH,328
+Wyoming,Mehoopany Township,Attorney General,,,DANIEL WASSNER,9
+Wyoming,Mehoopany Township,Attorney General,,GRN,RICHARD L WEISS,5
+Wyoming,Mehoopany Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Mehoopany Township,Attorney General,,Scattered,SC,0
+Wyoming,Meshoppen Borough,Attorney General,,DEM,JOSH SHAPIRO,35
+Wyoming,Meshoppen Borough,Attorney General,,REP,HEATHER HEIDELBAUGH,97
+Wyoming,Meshoppen Borough,Attorney General,,,DANIEL WASSNER,4
+Wyoming,Meshoppen Borough,Attorney General,,GRN,RICHARD L WEISS,1
+Wyoming,Meshoppen Borough,Attorney General,,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,Attorney General,,Scattered,SC,0
+Wyoming,Meshoppen Township,Attorney General,,DEM,JOSH SHAPIRO,104
+Wyoming,Meshoppen Township,Attorney General,,REP,HEATHER HEIDELBAUGH,333
+Wyoming,Meshoppen Township,Attorney General,,,DANIEL WASSNER,5
+Wyoming,Meshoppen Township,Attorney General,,GRN,RICHARD L WEISS,5
+Wyoming,Meshoppen Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Meshoppen Township,Attorney General,,Scattered,SC,1
+Wyoming,Monroe Township,Attorney General,,DEM,JOSH SHAPIRO,277
+Wyoming,Monroe Township,Attorney General,,REP,HEATHER HEIDELBAUGH,627
+Wyoming,Monroe Township,Attorney General,,,DANIEL WASSNER,18
+Wyoming,Monroe Township,Attorney General,,GRN,RICHARD L WEISS,7
+Wyoming,Monroe Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Monroe Township,Attorney General,,Scattered,SC,1
+Wyoming,Nicholson Boro,Attorney General,,DEM,JOSH SHAPIRO,151
+Wyoming,Nicholson Boro,Attorney General,,REP,HEATHER HEIDELBAUGH,205
+Wyoming,Nicholson Boro,Attorney General,,,DANIEL WASSNER,7
+Wyoming,Nicholson Boro,Attorney General,,GRN,RICHARD L WEISS,7
+Wyoming,Nicholson Boro,Attorney General,,Write-Ins,WI,0
+Wyoming,Nicholson Boro,Attorney General,,Scattered,SC,0
+Wyoming,Nicholson Township,Attorney General,,DEM,JOSH SHAPIRO,237
+Wyoming,Nicholson Township,Attorney General,,REP,HEATHER HEIDELBAUGH,474
+Wyoming,Nicholson Township,Attorney General,,,DANIEL WASSNER,14
+Wyoming,Nicholson Township,Attorney General,,GRN,RICHARD L WEISS,5
+Wyoming,Nicholson Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Nicholson Township,Attorney General,,Scattered,SC,1
+Wyoming,North Branch Township,Attorney General,,DEM,JOSH SHAPIRO,32
+Wyoming,North Branch Township,Attorney General,,REP,HEATHER HEIDELBAUGH,115
+Wyoming,North Branch Township,Attorney General,,,DANIEL WASSNER,0
+Wyoming,North Branch Township,Attorney General,,GRN,RICHARD L WEISS,1
+Wyoming,North Branch Township,Attorney General,,Write-Ins,WI,0
+Wyoming,North Branch Township,Attorney General,,Scattered,SC,0
+Wyoming,Northmoreland Township,Attorney General,,DEM,JOSH SHAPIRO,307
+Wyoming,Northmoreland Township,Attorney General,,REP,HEATHER HEIDELBAUGH,532
+Wyoming,Northmoreland Township,Attorney General,,,DANIEL WASSNER,14
+Wyoming,Northmoreland Township,Attorney General,,GRN,RICHARD L WEISS,10
+Wyoming,Northmoreland Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Northmoreland Township,Attorney General,,Scattered,SC,1
+Wyoming,Noxen Township,Attorney General,,DEM,JOSH SHAPIRO,124
+Wyoming,Noxen Township,Attorney General,,REP,HEATHER HEIDELBAUGH,309
+Wyoming,Noxen Township,Attorney General,,,DANIEL WASSNER,8
+Wyoming,Noxen Township,Attorney General,,GRN,RICHARD L WEISS,12
+Wyoming,Noxen Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Noxen Township,Attorney General,,Scattered,SC,0
+Wyoming,Overfield Township,Attorney General,,DEM,JOSH SHAPIRO,401
+Wyoming,Overfield Township,Attorney General,,REP,HEATHER HEIDELBAUGH,495
+Wyoming,Overfield Township,Attorney General,,,DANIEL WASSNER,19
+Wyoming,Overfield Township,Attorney General,,GRN,RICHARD L WEISS,11
+Wyoming,Overfield Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Overfield Township,Attorney General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,DEM,JOSH SHAPIRO,54
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,REP,HEATHER HEIDELBAUGH,100
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,,DANIEL WASSNER,7
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,GRN,RICHARD L WEISS,0
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,Attorney General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,DEM,JOSH SHAPIRO,144
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,REP,HEATHER HEIDELBAUGH,175
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,,DANIEL WASSNER,6
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,GRN,RICHARD L WEISS,2
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,Attorney General,,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,DEM,JOSH SHAPIRO,85
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,REP,HEATHER HEIDELBAUGH,108
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,,DANIEL WASSNER,5
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,GRN,RICHARD L WEISS,2
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,Attorney General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,DEM,JOSH SHAPIRO,101
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,REP,HEATHER HEIDELBAUGH,130
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,,DANIEL WASSNER,6
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,GRN,RICHARD L WEISS,2
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,Attorney General,,Scattered,SC,0
+Wyoming,Tunkhannock Twp #1,Attorney General,,DEM,JOSH SHAPIRO,590
+Wyoming,Tunkhannock Twp #1,Attorney General,,REP,HEATHER HEIDELBAUGH,914
+Wyoming,Tunkhannock Twp #1,Attorney General,,,DANIEL WASSNER,22
+Wyoming,Tunkhannock Twp #1,Attorney General,,GRN,RICHARD L WEISS,9
+Wyoming,Tunkhannock Twp #1,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,Attorney General,,Scattered,SC,0
+Wyoming,Tunkhannock Twp #2,Attorney General,,DEM,JOSH SHAPIRO,248
+Wyoming,Tunkhannock Twp #2,Attorney General,,REP,HEATHER HEIDELBAUGH,446
+Wyoming,Tunkhannock Twp #2,Attorney General,,,DANIEL WASSNER,13
+Wyoming,Tunkhannock Twp #2,Attorney General,,GRN,RICHARD L WEISS,5
+Wyoming,Tunkhannock Twp #2,Attorney General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,Attorney General,,Scattered,SC,0
+Wyoming,Washington Township,Attorney General,,DEM,JOSH SHAPIRO,209
+Wyoming,Washington Township,Attorney General,,REP,HEATHER HEIDELBAUGH,508
+Wyoming,Washington Township,Attorney General,,,DANIEL WASSNER,19
+Wyoming,Washington Township,Attorney General,,GRN,RICHARD L WEISS,3
+Wyoming,Washington Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Washington Township,Attorney General,,Scattered,SC,1
+Wyoming,Windham Township,Attorney General,,DEM,JOSH SHAPIRO,101
+Wyoming,Windham Township,Attorney General,,REP,HEATHER HEIDELBAUGH,305
+Wyoming,Windham Township,Attorney General,,,DANIEL WASSNER,1
+Wyoming,Windham Township,Attorney General,,GRN,RICHARD L WEISS,7
+Wyoming,Windham Township,Attorney General,,Write-Ins,WI,0
+Wyoming,Windham Township,Attorney General,,Scattered,SC,0
+Wyoming,Braintrim Township,Auditor General,,DEM,NINA AHMAD,41
+Wyoming,Braintrim Township,Auditor General,,REP,TIMOTHY DEFOOR,179
+Wyoming,Braintrim Township,Auditor General,,,JENNIFER MOOR,6
+Wyoming,Braintrim Township,Auditor General,,GRN,OLIVIA FAISON,2
+Wyoming,Braintrim Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Braintrim Township,Auditor General,,Scattered,SC,0
+Wyoming,Clinton Township,Auditor General,,DEM,NINA AHMAD,263
+Wyoming,Clinton Township,Auditor General,,REP,TIMOTHY DEFOOR,479
+Wyoming,Clinton Township,Auditor General,,,JENNIFER MOOR,28
+Wyoming,Clinton Township,Auditor General,,GRN,OLIVIA FAISON,14
+Wyoming,Clinton Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Clinton Township,Auditor General,,Scattered,SC,0
+Wyoming,Eaton Township,Auditor General,,DEM,NINA AHMAD,263
+Wyoming,Eaton Township,Auditor General,,REP,TIMOTHY DEFOOR,574
+Wyoming,Eaton Township,Auditor General,,,JENNIFER MOOR,28
+Wyoming,Eaton Township,Auditor General,,GRN,OLIVIA FAISON,13
+Wyoming,Eaton Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Eaton Township,Auditor General,,Scattered,SC,0
+Wyoming,Exeter Township,Auditor General,,DEM,NINA AHMAD,118
+Wyoming,Exeter Township,Auditor General,,REP,TIMOTHY DEFOOR,263
+Wyoming,Exeter Township,Auditor General,,,JENNIFER MOOR,14
+Wyoming,Exeter Township,Auditor General,,GRN,OLIVIA FAISON,6
+Wyoming,Exeter Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Exeter Township,Auditor General,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 1,Auditor General,,DEM,NINA AHMAD,114
+Wyoming,Factoryville Boro Wards 1,Auditor General,,REP,TIMOTHY DEFOOR,117
+Wyoming,Factoryville Boro Wards 1,Auditor General,,,JENNIFER MOOR,15
+Wyoming,Factoryville Boro Wards 1,Auditor General,,GRN,OLIVIA FAISON,3
+Wyoming,Factoryville Boro Wards 1,Auditor General,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,Auditor General,,Scattered,SC,1
+Wyoming,Factoryville Boro Wards 2,Auditor General,,DEM,NINA AHMAD,93
+Wyoming,Factoryville Boro Wards 2,Auditor General,,REP,TIMOTHY DEFOOR,112
+Wyoming,Factoryville Boro Wards 2,Auditor General,,,JENNIFER MOOR,8
+Wyoming,Factoryville Boro Wards 2,Auditor General,,GRN,OLIVIA FAISON,2
+Wyoming,Factoryville Boro Wards 2,Auditor General,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,Auditor General,,Scattered,SC,0
+Wyoming,Falls Township,Auditor General,,DEM,NINA AHMAD,321
+Wyoming,Falls Township,Auditor General,,REP,TIMOTHY DEFOOR,661
+Wyoming,Falls Township,Auditor General,,,JENNIFER MOOR,38
+Wyoming,Falls Township,Auditor General,,GRN,OLIVIA FAISON,20
+Wyoming,Falls Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Falls Township,Auditor General,,Scattered,SC,2
+Wyoming,Forkston Township,Auditor General,,DEM,NINA AHMAD,43
+Wyoming,Forkston Township,Auditor General,,REP,TIMOTHY DEFOOR,131
+Wyoming,Forkston Township,Auditor General,,,JENNIFER MOOR,8
+Wyoming,Forkston Township,Auditor General,,GRN,OLIVIA FAISON,1
+Wyoming,Forkston Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Forkston Township,Auditor General,,Scattered,SC,0
+Wyoming,Laceyville Borough,Auditor General,,DEM,NINA AHMAD,33
+Wyoming,Laceyville Borough,Auditor General,,REP,TIMOTHY DEFOOR,124
+Wyoming,Laceyville Borough,Auditor General,,,JENNIFER MOOR,7
+Wyoming,Laceyville Borough,Auditor General,,GRN,OLIVIA FAISON,3
+Wyoming,Laceyville Borough,Auditor General,,Write-Ins,WI,0
+Wyoming,Laceyville Borough,Auditor General,,Scattered,SC,1
+Wyoming,Lemon Township,Auditor General,,DEM,NINA AHMAD,185
+Wyoming,Lemon Township,Auditor General,,REP,TIMOTHY DEFOOR,465
+Wyoming,Lemon Township,Auditor General,,,JENNIFER MOOR,13
+Wyoming,Lemon Township,Auditor General,,GRN,OLIVIA FAISON,10
+Wyoming,Lemon Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Lemon Township,Auditor General,,Scattered,SC,1
+Wyoming,Mehoopany Township,Auditor General,,DEM,NINA AHMAD,88
+Wyoming,Mehoopany Township,Auditor General,,REP,TIMOTHY DEFOOR,338
+Wyoming,Mehoopany Township,Auditor General,,,JENNIFER MOOR,21
+Wyoming,Mehoopany Township,Auditor General,,GRN,OLIVIA FAISON,4
+Wyoming,Mehoopany Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Mehoopany Township,Auditor General,,Scattered,SC,0
+Wyoming,Meshoppen Borough,Auditor General,,DEM,NINA AHMAD,32
+Wyoming,Meshoppen Borough,Auditor General,,REP,TIMOTHY DEFOOR,98
+Wyoming,Meshoppen Borough,Auditor General,,,JENNIFER MOOR,6
+Wyoming,Meshoppen Borough,Auditor General,,GRN,OLIVIA FAISON,0
+Wyoming,Meshoppen Borough,Auditor General,,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,Auditor General,,Scattered,SC,1
+Wyoming,Meshoppen Township,Auditor General,,DEM,NINA AHMAD,87
+Wyoming,Meshoppen Township,Auditor General,,REP,TIMOTHY DEFOOR,339
+Wyoming,Meshoppen Township,Auditor General,,,JENNIFER MOOR,14
+Wyoming,Meshoppen Township,Auditor General,,GRN,OLIVIA FAISON,5
+Wyoming,Meshoppen Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Meshoppen Township,Auditor General,,Scattered,SC,2
+Wyoming,Monroe Township,Auditor General,,DEM,NINA AHMAD,210
+Wyoming,Monroe Township,Auditor General,,REP,TIMOTHY DEFOOR,669
+Wyoming,Monroe Township,Auditor General,,,JENNIFER MOOR,28
+Wyoming,Monroe Township,Auditor General,,GRN,OLIVIA FAISON,10
+Wyoming,Monroe Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Monroe Township,Auditor General,,Scattered,SC,0
+Wyoming,Nicholson Boro,Auditor General,,DEM,NINA AHMAD,116
+Wyoming,Nicholson Boro,Auditor General,,REP,TIMOTHY DEFOOR,219
+Wyoming,Nicholson Boro,Auditor General,,,JENNIFER MOOR,17
+Wyoming,Nicholson Boro,Auditor General,,GRN,OLIVIA FAISON,15
+Wyoming,Nicholson Boro,Auditor General,,Write-Ins,WI,0
+Wyoming,Nicholson Boro,Auditor General,,Scattered,SC,0
+Wyoming,Nicholson Township,Auditor General,,DEM,NINA AHMAD,197
+Wyoming,Nicholson Township,Auditor General,,REP,TIMOTHY DEFOOR,505
+Wyoming,Nicholson Township,Auditor General,,,JENNIFER MOOR,22
+Wyoming,Nicholson Township,Auditor General,,GRN,OLIVIA FAISON,6
+Wyoming,Nicholson Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Nicholson Township,Auditor General,,Scattered,SC,0
+Wyoming,North Branch Township,Auditor General,,DEM,NINA AHMAD,26
+Wyoming,North Branch Township,Auditor General,,REP,TIMOTHY DEFOOR,116
+Wyoming,North Branch Township,Auditor General,,,JENNIFER MOOR,2
+Wyoming,North Branch Township,Auditor General,,GRN,OLIVIA FAISON,0
+Wyoming,North Branch Township,Auditor General,,Write-Ins,WI,0
+Wyoming,North Branch Township,Auditor General,,Scattered,SC,2
+Wyoming,Northmoreland Township,Auditor General,,DEM,NINA AHMAD,245
+Wyoming,Northmoreland Township,Auditor General,,REP,TIMOTHY DEFOOR,570
+Wyoming,Northmoreland Township,Auditor General,,,JENNIFER MOOR,27
+Wyoming,Northmoreland Township,Auditor General,,GRN,OLIVIA FAISON,13
+Wyoming,Northmoreland Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Northmoreland Township,Auditor General,,Scattered,SC,1
+Wyoming,Noxen Township,Auditor General,,DEM,NINA AHMAD,95
+Wyoming,Noxen Township,Auditor General,,REP,TIMOTHY DEFOOR,314
+Wyoming,Noxen Township,Auditor General,,,JENNIFER MOOR,26
+Wyoming,Noxen Township,Auditor General,,GRN,OLIVIA FAISON,8
+Wyoming,Noxen Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Noxen Township,Auditor General,,Scattered,SC,0
+Wyoming,Overfield Township,Auditor General,,DEM,NINA AHMAD,335
+Wyoming,Overfield Township,Auditor General,,REP,TIMOTHY DEFOOR,533
+Wyoming,Overfield Township,Auditor General,,,JENNIFER MOOR,27
+Wyoming,Overfield Township,Auditor General,,GRN,OLIVIA FAISON,18
+Wyoming,Overfield Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Overfield Township,Auditor General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,DEM,NINA AHMAD,47
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,REP,TIMOTHY DEFOOR,104
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,,JENNIFER MOOR,5
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,GRN,OLIVIA FAISON,2
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,Auditor General,,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,DEM,NINA AHMAD,130
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,REP,TIMOTHY DEFOOR,176
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,,JENNIFER MOOR,7
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,GRN,OLIVIA FAISON,5
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,Auditor General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,DEM,NINA AHMAD,57
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,REP,TIMOTHY DEFOOR,126
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,,JENNIFER MOOR,10
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,GRN,OLIVIA FAISON,4
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,Auditor General,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,DEM,NINA AHMAD,80
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,REP,TIMOTHY DEFOOR,141
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,,JENNIFER MOOR,8
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,GRN,OLIVIA FAISON,5
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,Auditor General,,Scattered,SC,1
+Wyoming,Tunkhannock Twp #1,Auditor General,,DEM,NINA AHMAD,489
+Wyoming,Tunkhannock Twp #1,Auditor General,,REP,TIMOTHY DEFOOR,974
+Wyoming,Tunkhannock Twp #1,Auditor General,,,JENNIFER MOOR,48
+Wyoming,Tunkhannock Twp #1,Auditor General,,GRN,OLIVIA FAISON,13
+Wyoming,Tunkhannock Twp #1,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,Auditor General,,Scattered,SC,0
+Wyoming,Tunkhannock Twp #2,Auditor General,,DEM,NINA AHMAD,212
+Wyoming,Tunkhannock Twp #2,Auditor General,,REP,TIMOTHY DEFOOR,469
+Wyoming,Tunkhannock Twp #2,Auditor General,,,JENNIFER MOOR,21
+Wyoming,Tunkhannock Twp #2,Auditor General,,GRN,OLIVIA FAISON,7
+Wyoming,Tunkhannock Twp #2,Auditor General,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,Auditor General,,Scattered,SC,0
+Wyoming,Washington Township,Auditor General,,DEM,NINA AHMAD,168
+Wyoming,Washington Township,Auditor General,,REP,TIMOTHY DEFOOR,530
+Wyoming,Washington Township,Auditor General,,,JENNIFER MOOR,25
+Wyoming,Washington Township,Auditor General,,GRN,OLIVIA FAISON,13
+Wyoming,Washington Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Washington Township,Auditor General,,Scattered,SC,0
+Wyoming,Windham Township,Auditor General,,DEM,NINA AHMAD,76
+Wyoming,Windham Township,Auditor General,,REP,TIMOTHY DEFOOR,321
+Wyoming,Windham Township,Auditor General,,,JENNIFER MOOR,11
+Wyoming,Windham Township,Auditor General,,GRN,OLIVIA FAISON,4
+Wyoming,Windham Township,Auditor General,,Write-Ins,WI,0
+Wyoming,Windham Township,Auditor General,,Scattered,SC,0
+Wyoming,Braintrim Township,State Treasurer,,DEM,JOE TORSELLA,42
+Wyoming,Braintrim Township,State Treasurer,,REP,STACY L GARRITY,182
+Wyoming,Braintrim Township,State Treasurer,,LIB,JOE SOLOSKI,2
+Wyoming,Braintrim Township,State Treasurer,,GRN,TIMOTHY RUNKLE,1
+Wyoming,Braintrim Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Braintrim Township,State Treasurer,,Scattered,SC,0
+Wyoming,Clinton Township,State Treasurer,,DEM,JOE TORSELLA,277
+Wyoming,Clinton Township,State Treasurer,,REP,STACY L GARRITY,480
+Wyoming,Clinton Township,State Treasurer,,LIB,JOE SOLOSKI,17
+Wyoming,Clinton Township,State Treasurer,,GRN,TIMOTHY RUNKLE,14
+Wyoming,Clinton Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Clinton Township,State Treasurer,,Scattered,SC,0
+Wyoming,Eaton Township,State Treasurer,,DEM,JOE TORSELLA,272
+Wyoming,Eaton Township,State Treasurer,,REP,STACY L GARRITY,567
+Wyoming,Eaton Township,State Treasurer,,LIB,JOE SOLOSKI,28
+Wyoming,Eaton Township,State Treasurer,,GRN,TIMOTHY RUNKLE,14
+Wyoming,Eaton Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Eaton Township,State Treasurer,,Scattered,SC,0
+Wyoming,Exeter Township,State Treasurer,,DEM,JOE TORSELLA,124
+Wyoming,Exeter Township,State Treasurer,,REP,STACY L GARRITY,265
+Wyoming,Exeter Township,State Treasurer,,LIB,JOE SOLOSKI,7
+Wyoming,Exeter Township,State Treasurer,,GRN,TIMOTHY RUNKLE,6
+Wyoming,Exeter Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Exeter Township,State Treasurer,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,DEM,JOE TORSELLA,106
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,REP,STACY L GARRITY,125
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,LIB,JOE SOLOSKI,11
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,DEM,JOE TORSELLA,92
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,REP,STACY L GARRITY,119
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,LIB,JOE SOLOSKI,5
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,GRN,TIMOTHY RUNKLE,1
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,Scattered,SC,1
+Wyoming,Falls Township,State Treasurer,,DEM,JOE TORSELLA,332
+Wyoming,Falls Township,State Treasurer,,REP,STACY L GARRITY,667
+Wyoming,Falls Township,State Treasurer,,LIB,JOE SOLOSKI,27
+Wyoming,Falls Township,State Treasurer,,GRN,TIMOTHY RUNKLE,11
+Wyoming,Falls Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Falls Township,State Treasurer,,Scattered,SC,0
+Wyoming,Forkston Township,State Treasurer,,DEM,JOE TORSELLA,45
+Wyoming,Forkston Township,State Treasurer,,REP,STACY L GARRITY,136
+Wyoming,Forkston Township,State Treasurer,,LIB,JOE SOLOSKI,2
+Wyoming,Forkston Township,State Treasurer,,GRN,TIMOTHY RUNKLE,1
+Wyoming,Forkston Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Forkston Township,State Treasurer,,Scattered,SC,2
+Wyoming,Laceyville Borough,State Treasurer,,DEM,JOE TORSELLA,31
+Wyoming,Laceyville Borough,State Treasurer,,REP,STACY L GARRITY,128
+Wyoming,Laceyville Borough,State Treasurer,,LIB,JOE SOLOSKI,3
+Wyoming,Laceyville Borough,State Treasurer,,GRN,TIMOTHY RUNKLE,2
+Wyoming,Laceyville Borough,State Treasurer,,Write-Ins,WI,0
+Wyoming,Laceyville Borough,State Treasurer,,Scattered,SC,0
+Wyoming,Lemon Township,State Treasurer,,DEM,JOE TORSELLA,196
+Wyoming,Lemon Township,State Treasurer,,REP,STACY L GARRITY,463
+Wyoming,Lemon Township,State Treasurer,,LIB,JOE SOLOSKI,9
+Wyoming,Lemon Township,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Lemon Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Lemon Township,State Treasurer,,Scattered,SC,1
+Wyoming,Mehoopany Township,State Treasurer,,DEM,JOE TORSELLA,88
+Wyoming,Mehoopany Township,State Treasurer,,REP,STACY L GARRITY,336
+Wyoming,Mehoopany Township,State Treasurer,,LIB,JOE SOLOSKI,18
+Wyoming,Mehoopany Township,State Treasurer,,GRN,TIMOTHY RUNKLE,8
+Wyoming,Mehoopany Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Mehoopany Township,State Treasurer,,Scattered,SC,1
+Wyoming,Meshoppen Borough,State Treasurer,,DEM,JOE TORSELLA,30
+Wyoming,Meshoppen Borough,State Treasurer,,REP,STACY L GARRITY,100
+Wyoming,Meshoppen Borough,State Treasurer,,LIB,JOE SOLOSKI,3
+Wyoming,Meshoppen Borough,State Treasurer,,GRN,TIMOTHY RUNKLE,0
+Wyoming,Meshoppen Borough,State Treasurer,,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,State Treasurer,,Scattered,SC,0
+Wyoming,Meshoppen Township,State Treasurer,,DEM,JOE TORSELLA,87
+Wyoming,Meshoppen Township,State Treasurer,,REP,STACY L GARRITY,345
+Wyoming,Meshoppen Township,State Treasurer,,LIB,JOE SOLOSKI,10
+Wyoming,Meshoppen Township,State Treasurer,,GRN,TIMOTHY RUNKLE,3
+Wyoming,Meshoppen Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Meshoppen Township,State Treasurer,,Scattered,SC,1
+Wyoming,Monroe Township,State Treasurer,,DEM,JOE TORSELLA,214
+Wyoming,Monroe Township,State Treasurer,,REP,STACY L GARRITY,675
+Wyoming,Monroe Township,State Treasurer,,LIB,JOE SOLOSKI,16
+Wyoming,Monroe Township,State Treasurer,,GRN,TIMOTHY RUNKLE,13
+Wyoming,Monroe Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Monroe Township,State Treasurer,,Scattered,SC,2
+Wyoming,Nicholson Boro,State Treasurer,,DEM,JOE TORSELLA,114
+Wyoming,Nicholson Boro,State Treasurer,,REP,STACY L GARRITY,233
+Wyoming,Nicholson Boro,State Treasurer,,LIB,JOE SOLOSKI,13
+Wyoming,Nicholson Boro,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Nicholson Boro,State Treasurer,,Write-Ins,WI,0
+Wyoming,Nicholson Boro,State Treasurer,,Scattered,SC,0
+Wyoming,Nicholson Township,State Treasurer,,DEM,JOE TORSELLA,205
+Wyoming,Nicholson Township,State Treasurer,,REP,STACY L GARRITY,501
+Wyoming,Nicholson Township,State Treasurer,,LIB,JOE SOLOSKI,15
+Wyoming,Nicholson Township,State Treasurer,,GRN,TIMOTHY RUNKLE,4
+Wyoming,Nicholson Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Nicholson Township,State Treasurer,,Scattered,SC,0
+Wyoming,North Branch Township,State Treasurer,,DEM,JOE TORSELLA,27
+Wyoming,North Branch Township,State Treasurer,,REP,STACY L GARRITY,115
+Wyoming,North Branch Township,State Treasurer,,LIB,JOE SOLOSKI,1
+Wyoming,North Branch Township,State Treasurer,,GRN,TIMOTHY RUNKLE,1
+Wyoming,North Branch Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,North Branch Township,State Treasurer,,Scattered,SC,0
+Wyoming,Northmoreland Township,State Treasurer,,DEM,JOE TORSELLA,258
+Wyoming,Northmoreland Township,State Treasurer,,REP,STACY L GARRITY,571
+Wyoming,Northmoreland Township,State Treasurer,,LIB,JOE SOLOSKI,14
+Wyoming,Northmoreland Township,State Treasurer,,GRN,TIMOTHY RUNKLE,10
+Wyoming,Northmoreland Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Northmoreland Township,State Treasurer,,Scattered,SC,2
+Wyoming,Noxen Township,State Treasurer,,DEM,JOE TORSELLA,95
+Wyoming,Noxen Township,State Treasurer,,REP,STACY L GARRITY,325
+Wyoming,Noxen Township,State Treasurer,,LIB,JOE SOLOSKI,13
+Wyoming,Noxen Township,State Treasurer,,GRN,TIMOTHY RUNKLE,8
+Wyoming,Noxen Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Noxen Township,State Treasurer,,Scattered,SC,1
+Wyoming,Overfield Township,State Treasurer,,DEM,JOE TORSELLA,340
+Wyoming,Overfield Township,State Treasurer,,REP,STACY L GARRITY,541
+Wyoming,Overfield Township,State Treasurer,,LIB,JOE SOLOSKI,23
+Wyoming,Overfield Township,State Treasurer,,GRN,TIMOTHY RUNKLE,8
+Wyoming,Overfield Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Overfield Township,State Treasurer,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,DEM,JOE TORSELLA,44
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,REP,STACY L GARRITY,106
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,LIB,JOE SOLOSKI,6
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,GRN,TIMOTHY RUNKLE,3
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,State Treasurer,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,DEM,JOE TORSELLA,133
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,REP,STACY L GARRITY,181
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,LIB,JOE SOLOSKI,5
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,GRN,TIMOTHY RUNKLE,3
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,State Treasurer,,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,DEM,JOE TORSELLA,61
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,REP,STACY L GARRITY,128
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,LIB,JOE SOLOSKI,4
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,GRN,TIMOTHY RUNKLE,3
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,State Treasurer,,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,DEM,JOE TORSELLA,81
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,REP,STACY L GARRITY,144
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,LIB,JOE SOLOSKI,5
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,GRN,TIMOTHY RUNKLE,3
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,State Treasurer,,Scattered,SC,0
+Wyoming,Tunkhannock Twp #1,State Treasurer,,DEM,JOE TORSELLA,496
+Wyoming,Tunkhannock Twp #1,State Treasurer,,REP,STACY L GARRITY,990
+Wyoming,Tunkhannock Twp #1,State Treasurer,,LIB,JOE SOLOSKI,26
+Wyoming,Tunkhannock Twp #1,State Treasurer,,GRN,TIMOTHY RUNKLE,13
+Wyoming,Tunkhannock Twp #1,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,State Treasurer,,Scattered,SC,1
+Wyoming,Tunkhannock Twp #2,State Treasurer,,DEM,JOE TORSELLA,222
+Wyoming,Tunkhannock Twp #2,State Treasurer,,REP,STACY L GARRITY,467
+Wyoming,Tunkhannock Twp #2,State Treasurer,,LIB,JOE SOLOSKI,13
+Wyoming,Tunkhannock Twp #2,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Tunkhannock Twp #2,State Treasurer,,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,State Treasurer,,Scattered,SC,0
+Wyoming,Washington Township,State Treasurer,,DEM,JOE TORSELLA,175
+Wyoming,Washington Township,State Treasurer,,REP,STACY L GARRITY,530
+Wyoming,Washington Township,State Treasurer,,LIB,JOE SOLOSKI,22
+Wyoming,Washington Township,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Washington Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Washington Township,State Treasurer,,Scattered,SC,0
+Wyoming,Windham Township,State Treasurer,,DEM,JOE TORSELLA,81
+Wyoming,Windham Township,State Treasurer,,REP,STACY L GARRITY,324
+Wyoming,Windham Township,State Treasurer,,LIB,JOE SOLOSKI,4
+Wyoming,Windham Township,State Treasurer,,GRN,TIMOTHY RUNKLE,7
+Wyoming,Windham Township,State Treasurer,,Write-Ins,WI,0
+Wyoming,Windham Township,State Treasurer,,Scattered,SC,0
+Wyoming,Braintrim Township,Congress,12,REP,LEE GRIFFIN,42
+Wyoming,Braintrim Township,Congress,12,DEM,FRED KELLER,186
+Wyoming,Braintrim Township,Congress,12,Write-Ins,WI,0
+Wyoming,Braintrim Township,Congress,12,Scattered,SC,0
+Wyoming,Clinton Township,Congress,12,REP,LEE GRIFFIN,270
+Wyoming,Clinton Township,Congress,12,DEM,FRED KELLER,516
+Wyoming,Clinton Township,Congress,12,Write-Ins,WI,0
+Wyoming,Clinton Township,Congress,12,Scattered,SC,2
+Wyoming,Eaton Township,Congress,12,REP,LEE GRIFFIN,263
+Wyoming,Eaton Township,Congress,12,DEM,FRED KELLER,617
+Wyoming,Eaton Township,Congress,12,Write-Ins,WI,0
+Wyoming,Eaton Township,Congress,12,Scattered,SC,0
+Wyoming,Exeter Township,Congress,12,REP,LEE GRIFFIN,126
+Wyoming,Exeter Township,Congress,12,DEM,FRED KELLER,274
+Wyoming,Exeter Township,Congress,12,Write-Ins,WI,0
+Wyoming,Exeter Township,Congress,12,Scattered,SC,4
+Wyoming,Factoryville Boro Wards 1,Congress,12,REP,LEE GRIFFIN,121
+Wyoming,Factoryville Boro Wards 1,Congress,12,DEM,FRED KELLER,126
+Wyoming,Factoryville Boro Wards 1,Congress,12,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,Congress,12,Scattered,SC,0
+Wyoming,Factoryville Boro Wards 2,Congress,12,REP,LEE GRIFFIN,91
+Wyoming,Factoryville Boro Wards 2,Congress,12,DEM,FRED KELLER,124
+Wyoming,Factoryville Boro Wards 2,Congress,12,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,Congress,12,Scattered,SC,1
+Wyoming,Falls Township,Congress,12,REP,LEE GRIFFIN,335
+Wyoming,Falls Township,Congress,12,DEM,FRED KELLER,716
+Wyoming,Falls Township,Congress,12,Write-Ins,WI,0
+Wyoming,Falls Township,Congress,12,Scattered,SC,0
+Wyoming,Forkston Township,Congress,12,REP,LEE GRIFFIN,44
+Wyoming,Forkston Township,Congress,12,DEM,FRED KELLER,140
+Wyoming,Forkston Township,Congress,12,Write-Ins,WI,0
+Wyoming,Forkston Township,Congress,12,Scattered,SC,2
+Wyoming,Laceyville Borough,Congress,12,REP,LEE GRIFFIN,35
+Wyoming,Laceyville Borough,Congress,12,DEM,FRED KELLER,130
+Wyoming,Laceyville Borough,Congress,12,Write-Ins,WI,0
+Wyoming,Laceyville Borough,Congress,12,Scattered,SC,0
+Wyoming,Lemon Township,Congress,12,REP,LEE GRIFFIN,197
+Wyoming,Lemon Township,Congress,12,DEM,FRED KELLER,479
+Wyoming,Lemon Township,Congress,12,Write-Ins,WI,0
+Wyoming,Lemon Township,Congress,12,Scattered,SC,1
+Wyoming,Mehoopany Township,Congress,12,REP,LEE GRIFFIN,89
+Wyoming,Mehoopany Township,Congress,12,DEM,FRED KELLER,363
+Wyoming,Mehoopany Township,Congress,12,Write-Ins,WI,0
+Wyoming,Mehoopany Township,Congress,12,Scattered,SC,1
+Wyoming,Meshoppen Borough,Congress,12,REP,LEE GRIFFIN,31
+Wyoming,Meshoppen Borough,Congress,12,DEM,FRED KELLER,103
+Wyoming,Meshoppen Borough,Congress,12,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,Congress,12,Scattered,SC,0
+Wyoming,Meshoppen Township,Congress,12,REP,LEE GRIFFIN,83
+Wyoming,Meshoppen Township,Congress,12,DEM,FRED KELLER,364
+Wyoming,Meshoppen Township,Congress,12,Write-Ins,WI,0
+Wyoming,Meshoppen Township,Congress,12,Scattered,SC,1
+Wyoming,Monroe Township,Congress,12,REP,LEE GRIFFIN,214
+Wyoming,Monroe Township,Congress,12,DEM,FRED KELLER,704
+Wyoming,Monroe Township,Congress,12,Write-Ins,WI,0
+Wyoming,Monroe Township,Congress,12,Scattered,SC,1
+Wyoming,Nicholson Boro,Congress,12,REP,LEE GRIFFIN,119
+Wyoming,Nicholson Boro,Congress,12,DEM,FRED KELLER,247
+Wyoming,Nicholson Boro,Congress,12,Write-Ins,WI,0
+Wyoming,Nicholson Boro,Congress,12,Scattered,SC,1
+Wyoming,Nicholson Township,Congress,12,REP,LEE GRIFFIN,206
+Wyoming,Nicholson Township,Congress,12,DEM,FRED KELLER,517
+Wyoming,Nicholson Township,Congress,12,Write-Ins,WI,0
+Wyoming,Nicholson Township,Congress,12,Scattered,SC,1
+Wyoming,North Branch Township,Congress,12,REP,LEE GRIFFIN,26
+Wyoming,North Branch Township,Congress,12,DEM,FRED KELLER,123
+Wyoming,North Branch Township,Congress,12,Write-Ins,WI,0
+Wyoming,North Branch Township,Congress,12,Scattered,SC,0
+Wyoming,Northmoreland Township,Congress,12,REP,LEE GRIFFIN,246
+Wyoming,Northmoreland Township,Congress,12,DEM,FRED KELLER,610
+Wyoming,Northmoreland Township,Congress,12,Write-Ins,WI,0
+Wyoming,Northmoreland Township,Congress,12,Scattered,SC,2
+Wyoming,Noxen Township,Congress,12,REP,LEE GRIFFIN,104
+Wyoming,Noxen Township,Congress,12,DEM,FRED KELLER,342
+Wyoming,Noxen Township,Congress,12,Write-Ins,WI,0
+Wyoming,Noxen Township,Congress,12,Scattered,SC,2
+Wyoming,Overfield Township,Congress,12,REP,LEE GRIFFIN,351
+Wyoming,Overfield Township,Congress,12,DEM,FRED KELLER,565
+Wyoming,Overfield Township,Congress,12,Write-Ins,WI,0
+Wyoming,Overfield Township,Congress,12,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 1,Congress,12,REP,LEE GRIFFIN,45
+Wyoming,Tunkhannock Boro Wards 1,Congress,12,DEM,FRED KELLER,117
+Wyoming,Tunkhannock Boro Wards 1,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,Congress,12,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 2,Congress,12,REP,LEE GRIFFIN,131
+Wyoming,Tunkhannock Boro Wards 2,Congress,12,DEM,FRED KELLER,195
+Wyoming,Tunkhannock Boro Wards 2,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,Congress,12,Scattered,SC,1
+Wyoming,Tunkhannock Boro Wards 3,Congress,12,REP,LEE GRIFFIN,60
+Wyoming,Tunkhannock Boro Wards 3,Congress,12,DEM,FRED KELLER,138
+Wyoming,Tunkhannock Boro Wards 3,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,Congress,12,Scattered,SC,0
+Wyoming,Tunkhannock Boro Wards 4,Congress,12,REP,LEE GRIFFIN,85
+Wyoming,Tunkhannock Boro Wards 4,Congress,12,DEM,FRED KELLER,152
+Wyoming,Tunkhannock Boro Wards 4,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,Congress,12,Scattered,SC,0
+Wyoming,Tunkhannock Twp #1,Congress,12,REP,LEE GRIFFIN,493
+Wyoming,Tunkhannock Twp #1,Congress,12,DEM,FRED KELLER,1042
+Wyoming,Tunkhannock Twp #1,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,Congress,12,Scattered,SC,2
+Wyoming,Tunkhannock Twp #2,Congress,12,REP,LEE GRIFFIN,218
+Wyoming,Tunkhannock Twp #2,Congress,12,DEM,FRED KELLER,493
+Wyoming,Tunkhannock Twp #2,Congress,12,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,Congress,12,Scattered,SC,0
+Wyoming,Washington Township,Congress,12,REP,LEE GRIFFIN,174
+Wyoming,Washington Township,Congress,12,DEM,FRED KELLER,566
+Wyoming,Washington Township,Congress,12,Write-Ins,WI,0
+Wyoming,Washington Township,Congress,12,Scattered,SC,2
+Wyoming,Windham Township,Congress,12,REP,LEE GRIFFIN,73
+Wyoming,Windham Township,Congress,12,DEM,FRED KELLER,338
+Wyoming,Windham Township,Congress,12,Write-Ins,WI,0
+Wyoming,Windham Township,Congress,12,Scattered,SC,0
+Wyoming,Braintrim Township,PA Rep,117,DEM,KAREN BOBACK,213
+Wyoming,Braintrim Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Braintrim Township,PA Rep,117,Scattered,SC,7
+Wyoming,Clinton Township,PA Rep,117,DEM,KAREN BOBACK,665
+Wyoming,Clinton Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Clinton Township,PA Rep,117,Scattered,SC,30
+Wyoming,Eaton Township,PA Rep,117,DEM,KAREN BOBACK,820
+Wyoming,Eaton Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Eaton Township,PA Rep,117,Scattered,SC,16
+Wyoming,Exeter Township,PA Rep,117,DEM,KAREN BOBACK,355
+Wyoming,Exeter Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Exeter Township,PA Rep,117,Scattered,SC,13
+Wyoming,Factoryville Boro Wards 1,PA Rep,117,DEM,KAREN BOBACK,210
+Wyoming,Factoryville Boro Wards 1,PA Rep,117,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 1,PA Rep,117,Scattered,SC,18
+Wyoming,Factoryville Boro Wards 2,PA Rep,117,DEM,KAREN BOBACK,176
+Wyoming,Factoryville Boro Wards 2,PA Rep,117,Write-Ins,WI,0
+Wyoming,Factoryville Boro Wards 2,PA Rep,117,Scattered,SC,6
+Wyoming,Falls Township,PA Rep,117,DEM,KAREN BOBACK,929
+Wyoming,Falls Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Falls Township,PA Rep,117,Scattered,SC,27
+Wyoming,Forkston Township,PA Rep,117,DEM,KAREN BOBACK,170
+Wyoming,Forkston Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Forkston Township,PA Rep,117,Scattered,SC,7
+Wyoming,Laceyville Borough,PA Rep,117,DEM,KAREN BOBACK,155
+Wyoming,Laceyville Borough,PA Rep,117,Write-Ins,WI,0
+Wyoming,Laceyville Borough,PA Rep,117,Scattered,SC,5
+Wyoming,Lemon Township,PA Rep,117,DEM,KAREN BOBACK,611
+Wyoming,Lemon Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Lemon Township,PA Rep,117,Scattered,SC,21
+Wyoming,Mehoopany Township,PA Rep,117,DEM,KAREN BOBACK,413
+Wyoming,Mehoopany Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Mehoopany Township,PA Rep,117,Scattered,SC,11
+Wyoming,Meshoppen Borough,PA Rep,117,DEM,KAREN BOBACK,126
+Wyoming,Meshoppen Borough,PA Rep,117,Write-Ins,WI,0
+Wyoming,Meshoppen Borough,PA Rep,117,Scattered,SC,2
+Wyoming,Meshoppen Township,PA Rep,117,DEM,KAREN BOBACK,431
+Wyoming,Meshoppen Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Meshoppen Township,PA Rep,117,Scattered,SC,5
+Wyoming,Monroe Township,PA Rep,117,DEM,KAREN BOBACK,854
+Wyoming,Monroe Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Monroe Township,PA Rep,117,Scattered,SC,13
+Wyoming,Nicholson Boro,PA Rep,117,DEM,KAREN BOBACK,324
+Wyoming,Nicholson Boro,PA Rep,117,Write-Ins,WI,0
+Wyoming,Nicholson Boro,PA Rep,117,Scattered,SC,8
+Wyoming,Nicholson Township,PA Rep,117,DEM,KAREN BOBACK,633
+Wyoming,Nicholson Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Nicholson Township,PA Rep,117,Scattered,SC,20
+Wyoming,North Branch Township,PA Rep,117,DEM,KAREN BOBACK,138
+Wyoming,North Branch Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,North Branch Township,PA Rep,117,Scattered,SC,4
+Wyoming,Northmoreland Township,PA Rep,117,DEM,KAREN BOBACK,781
+Wyoming,Northmoreland Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Northmoreland Township,PA Rep,117,Scattered,SC,29
+Wyoming,Noxen Township,PA Rep,117,DEM,KAREN BOBACK,430
+Wyoming,Noxen Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Noxen Township,PA Rep,117,Scattered,SC,7
+Wyoming,Overfield Township,PA Rep,117,DEM,KAREN BOBACK,794
+Wyoming,Overfield Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Overfield Township,PA Rep,117,Scattered,SC,26
+Wyoming,Tunkhannock Boro Wards 1,PA Rep,117,DEM,KAREN BOBACK,148
+Wyoming,Tunkhannock Boro Wards 1,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 1,PA Rep,117,Scattered,SC,2
+Wyoming,Tunkhannock Boro Wards 2,PA Rep,117,DEM,KAREN BOBACK,278
+Wyoming,Tunkhannock Boro Wards 2,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 2,PA Rep,117,Scattered,SC,13
+Wyoming,Tunkhannock Boro Wards 3,PA Rep,117,DEM,KAREN BOBACK,180
+Wyoming,Tunkhannock Boro Wards 3,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 3,PA Rep,117,Scattered,SC,3
+Wyoming,Tunkhannock Boro Wards 4,PA Rep,117,DEM,KAREN BOBACK,213
+Wyoming,Tunkhannock Boro Wards 4,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Boro Wards 4,PA Rep,117,Scattered,SC,7
+Wyoming,Tunkhannock Twp #1,PA Rep,117,DEM,KAREN BOBACK,1355
+Wyoming,Tunkhannock Twp #1,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #1,PA Rep,117,Scattered,SC,40
+Wyoming,Tunkhannock Twp #2,PA Rep,117,DEM,KAREN BOBACK,622
+Wyoming,Tunkhannock Twp #2,PA Rep,117,Write-Ins,WI,0
+Wyoming,Tunkhannock Twp #2,PA Rep,117,Scattered,SC,18
+Wyoming,Washington Township,PA Rep,117,DEM,KAREN BOBACK,701
+Wyoming,Washington Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Washington Township,PA Rep,117,Scattered,SC,10
+Wyoming,Windham Township,PA Rep,117,DEM,KAREN BOBACK,387
+Wyoming,Windham Township,PA Rep,117,Write-Ins,WI,0
+Wyoming,Windham Township,PA Rep,117,Scattered,SC,7
