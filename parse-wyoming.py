@@ -1,63 +1,10 @@
 #!/usr/bin/env python
 import csv
 
-# Choice
-
-
-# 12TH CONGRESSIONAL WRITE-IN
-# 15TH SENATORIAL WRITE-IN
-# 86TH LEGISLATIVE WRITE-IN
-# ATTORNEY GENERAL WRITE-IN
-# AUDITOR GENERAL WRITE-IN
-# STATE TREASURER WRITE-IN
-# PRESIDENT WRITE-IN
-# Attorney General (Vote for 1)
-# Auditor General (Vote for 1)
-# President (Vote for 1)
-# State Treasurer (Vote for 1)
-# Congress 12 (Vote for 1)
-# PA Rep 86 (Vote for 1)
-# PA Senator 15 (Vote for 1)
-
-# Precinct BLAIN BOROUGH
-# Precinct BLOOMFIELD BOROUGH
-# Precinct BUFFALO TOWNSHIP
-# Precinct CARROLL TOWNSHIP
-# Precinct CENTRE TOWNSHIP
-# Precinct DUNCANNON BOROUGH
-# Precinct GREENWOOD TOWNSHIP
-# Precinct HOWE TOWNSHIP
-# Precinct JACKSON TOWNSHIP
-# Precinct JUNIATA TOWNSHIP
-# Precinct LANDISBURG BOROUGH
-# Precinct LIVERPOOL BOROUGH
-# Precinct LIVERPOOL TOWNSHIP
-# Precinct MADISON TOWNSHIP
-# Precinct MARYSVILLE BOROUGH
-# Precinct MILLER TOWNSHIP
-# Precinct MILLERSTOWN BOROUGH
-# Precinct NEWPORT BOROUGH
-# Precinct OLIVER TOWNSHIP
-# Precinct PENN TOWNSHIP
-# Precinct RYE TOWNSHIP
-# Precinct SANDY HILL DISTRICT
-# Precinct SAVILLE TOWNSHIP
-# Precinct SPRING TOWNSHIP
-# Precinct TOBOYNE TOWNSHIP 1ST
-# Precinct TOBOYNE TOWNSHIP 2ND
-# Precinct TUSCARORA TOWNSHIP
-# Precinct TYRONE TOWNSHIP
-# Precinct WATTS TOWNSHIP
-# Precinct WHEATFIELD TOWNSHIP
 
 # All Precincts
-
-
 # File clean
 # Strip Headers per Page
-#   Choice,Votes,Vote %,ED,MI,PR
-#   ['Choice', 'Votes', 'Vote %', 'ED', 'MI', 'PR']
-#   ['All Precincts', '', '', '', '', '']
 
 def readf(filename):
     with open(filename) as csvfile:
@@ -114,8 +61,6 @@ def parse(records):
             header = r
             print("New", r)
             h1 = header[4:]
-            # currace = r[1]
-            # district = r[2]
 
         else:
             v1 = r[4:]
